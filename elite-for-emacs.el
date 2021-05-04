@@ -1,4 +1,4 @@
-;;; elite-for-emacs.el - Elite for EMACS
+;;; elite-for-emacs.el --- Elite for EMACS
 
 (defconst elite-for-emacs-version "0.1"
   "Version number of Elite for EMACS")
